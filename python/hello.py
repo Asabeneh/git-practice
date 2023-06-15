@@ -1,2 +1,2 @@
 print('hello world')
-Print(My Name is Meseret")
+Print("My Name is Meseret")
