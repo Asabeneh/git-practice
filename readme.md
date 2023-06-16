@@ -42,3 +42,4 @@ git add . - to add all files and directories at once
 git commit -m "some message" - allow us to make the change backed up.
 git remote add origin url - to connect to the remote repository
 git push -u origin master - uploading the changes to remote repository
+git pull - allow us to download codes from remote repository to local
