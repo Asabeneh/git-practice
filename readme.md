@@ -28,3 +28,17 @@ Colons can be used to align columns.
 | Asab     | 250 | Finland |
 | Philip      | 28      | Italy   |
 | Almaz | 28      |    Sweden |
+
+# Summary
+
+What is Git?
+What is the difference Git and GitHub?
+What is a repository?
+git init - to initiate a local repository
+git status - to check the status of the repository
+git log - to see the history
+git add filename - to add a file to the staging the area
+git add . - to add all files and directories at once
+git commit -m "some message" - allow us to make the change backed up.
+git remote add origin url - to connect to the remote repository
+git push -u origin master - uploading the changes to remote repository
