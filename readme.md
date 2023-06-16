@@ -31,9 +31,12 @@ Colons can be used to align columns.
 
 # Summary
 
+
 What is Git?
 What is the difference Git and GitHub?
 What is a repository?
+
+```sh
 git init - to initiate a local repository
 git status - to check the status of the repository
 git log - to see the history
@@ -43,3 +46,4 @@ git commit -m "some message" - allow us to make the change backed up.
 git remote add origin url - to connect to the remote repository
 git push -u origin master - uploading the changes to remote repository
 git pull - allow us to download codes from remote repository to local
+```
