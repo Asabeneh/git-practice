@@ -23,3 +23,5 @@ def my_function(m):
 print(my_function(3))
 print(my_function(5))
 print(my_function(9))
+print('thank you')
+print("I corrected")
