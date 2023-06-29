@@ -11,6 +11,7 @@ You can download Git and start using this version control software in all your d
 This is a log of *Git*
 
 ![Git log](./images/git.png)
+![Git log](./images/github.png)
 
 The code blow is **Python**
 
